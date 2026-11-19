@@ -1,0 +1,6 @@
+{
+  "name": "Ngày Quốc Tế Đàn Ông 19/11",
+  "description": "Trang web chúc mừng Ngày Quốc tế Đàn ông 19/11 với trò chơi giải mã, hiệu ứng bùng nổ, thước phim kỉ niệm và bức thư tri ân.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
